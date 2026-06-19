@@ -153,8 +153,8 @@ O SyncroBaby busca evoluir continuamente para oferecer recursos que apoiem o aco
 
 ## Desenvolvedores
 
-[Gabryel Fillipe](https://github.com/GabryelFillipe)
-[João Victor Moraes](https://github.com/JoaoMoraes28)
-[Luana Bomfim](https://github.com/Luana598)
-[Pedro Henrique](https://github.com/ghpedro16)
-[Rebeca Gomes](https://github.com/rebeca0605)
+* [Gabryel Fillipe](https://github.com/GabryelFillipe)
+* [João Victor Moraes](https://github.com/JoaoMoraes28)
+* [Luana Bomfim](https://github.com/Luana598)
+* [Pedro Henrique](https://github.com/ghpedro16)
+* [Rebeca Gomes](https://github.com/rebeca0605)
