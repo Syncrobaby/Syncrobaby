@@ -8,6 +8,8 @@ O **SyncroBaby** é uma plataforma voltada ao apoio no cuidado infantil, desenvo
 
 A aplicação centraliza dados relevantes em um único ambiente, facilitando o monitoramento da rotina, do crescimento e dos marcos de desenvolvimento infantil, promovendo uma comunicação mais eficiente entre responsáveis e profissionais envolvidos no cuidado da criança.
 
+Atualmente todos os nossos serviços estão hospedados temporariamente, e nosso [web-site](https://frontendsyncrobabyvercel.vercel.app/) pode ser acessado pelo navegador.
+
 ---
 
 ## Objetivo
